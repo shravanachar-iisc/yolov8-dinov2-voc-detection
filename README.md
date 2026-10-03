@@ -15,7 +15,7 @@ A frozen, self-supervised **DINOv2 ViT-S/14** encoder reads the raw image. Its f
 - With DINOv2's patch tokens, mAP@0.5:0.95 rises by **+6.6 points**, accuracy improves on all 20 classes, and 33% fewer objects are missed.
 - Only about 0.1M parameters are added for training (a zero-initialised 1×1 projection). The 22M-parameter DINOv2 encoder stays frozen.
 
-![Training curves](report/figures/training_curves.png)
+![Results summary](report/figures/results_summary.png)
 
 ## Repository structure
 
