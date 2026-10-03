@@ -1,0 +1,6 @@
+ultralytics==8.4.166
+transformers>=4.47
+huggingface_hub
+pandas
+matplotlib
+tabulate
